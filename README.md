@@ -1,0 +1,1 @@
+* Ejemplo String Repository Section7
